@@ -25,7 +25,7 @@ The Open Y platform is a content management system that uses Drupal 8 functional
 
 # Installation
 
-We're using Composer based approach for OpenY installation. Please [read instructions](https://github.com/ymcatwincities/openy-project#installation) in order to successfully install it.
+We're using Composer based approach for OpenY installation. Please [OpenY installation instructions](https://github.com/ymcatwincities/openy-project#installation).
 
 # Features
 - Flexible and decoupled YMCA content structure
