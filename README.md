@@ -1,7 +1,31 @@
-Welcome to OpenY. Thank you for taking your time to read the documentation. Here you can find all needed information that shows the big picture of what is OpenY and how to use it from scratch to build your own site.
+<p align="center">
+  <a href="http://www.openymca.org">
+    <img alt="react-router" src="https://www.ymcamn.org/themes/custom/ymca/img/ymca-logo.svg" width="144">
+  </a>
+</p>
 
-# Open Y Distribution
+<h3 align="center">
+  Open YMCA
+</h3>
+<p align="center">
+  http://openymca.org
+</p>
+<p align="center">
+  An open source platform for YMCAs, by YMCAs built on <a href="drupal.org">Drupal</a>.
+</p>
+
+<p align="center">
+  <a href="https://packagist.org/packages/ymcatwincities/openy"><img src="https://img.shields.io/packagist/v/ymcatwincities/openy.svg?style=flat-square"></a>
+  <a href="https://packagist.org/packages/ymcatwincities/openy"><img src="https://img.shields.io/packagist/dm/ymcatwincities/openy.svg?style=flat-square"></a>
+</p>
+
+***
+
 The Open Y platform is a content management system that uses Drupal 8 functionality and useful modules from YMCAs and digital partners. It’s easy and free to use — everyone is welcome to implement Open Y and run Open Y projects.
+
+# Installation
+
+We're using Composer based approach for OpenY installation. Please [read instructions](https://github.com/ymcatwincities/openy-project#installation) in order to successfully install it.
 
 # Features
 - Flexible and decoupled YMCA content structure
@@ -12,18 +36,6 @@ The Open Y platform is a content management system that uses Drupal 8 functional
 - Location finder
 - Membership calculator
 
-# Installation
-
-### Prerequisites
-
-- Installed [Composer](https://getcomposer.org/download/)
-
-### Installation of Open Y
-We are using [composer](https://getcomposer.org/) for initiating new project tree.
-
-```
-composer create-project ymcatwincities/openy-project:8.1.x-dev MY_PROJECT --no-interaction
-```
 
 # Development
 For Development information please take a look at [docs/Development](https://github.com/ymcatwincities/openy/tree/8.x-1.x/docs/Development).
