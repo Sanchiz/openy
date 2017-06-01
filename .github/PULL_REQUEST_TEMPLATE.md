@@ -6,6 +6,7 @@ Make sure these boxes are checked before asking for review of your pull request 
 - [ ] [Steps for review](https://github.com/ymcatwincities/openy/pull/94#issue-204580200) have been provided according to PR changes.
 - [ ] Make sure you've provided all necessary hook\_update\_N to [support upgrade path](https://github.com/ymcatwincities/openy/blob/8.x-1.x/docs/Development/Upgrade path.md).
 - [ ] Make sure your git email is associated with account on drupal.org, otherwise you won't get commits there.
+<img src="drupalorg-email.png" width="200" alt="drupal.org email">
 - [ ] If you would like to get credits on drupal.org, [check documentation](https://github.com/ymcatwincities/openy/blob/8.x-1.x/docs/Development/Contributing.md#drupalorg-credits).
 
 Thank you for your contribution!
